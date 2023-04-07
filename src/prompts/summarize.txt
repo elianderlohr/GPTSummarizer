@@ -1,0 +1,9 @@
+Give a full summary of the whole document. Also, put the content into the big picture.
+
+Consider the following restrictions:
+1. Do not give a page by page summary
+2. Use up to 300 words
+
+Also give a summary in bullet points after the written summary.
+
+Text: "{{TEXT_TO_SUMMARIZE}}"

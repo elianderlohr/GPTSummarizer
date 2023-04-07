@@ -1,0 +1,14 @@
+The paper provides an overview of the evolution of frame detection in natural language processing and identifies the current problems with existing approaches. The author proposes a new approach that combines different methods to overcome existing weaknesses. The concept of framing is described as the process of emphasizing a certain aspect of an issue over others, which can change readers' positions without making a biased argument. The paper discusses the use of framing in various areas, including politics, marketing, and public health campaigns, and highlights the importance of identifying and measuring framing to prevent unwanted changes in opinions on a topic. The text proposes a new approach to measuring framing using machine learning techniques and discusses the evolution of frame detection research, from large-scale studies to using existing data to identify political bias and frames. 
+
+The document discusses the challenges in frame classification and presents four state-of-the-art approaches to address these challenges. Two frameworks, FrameAxis and OpenFraming, are discussed in detail. The text also describes a five-step process for identifying and predicting frames in text data related to gun violence, which involves using the LDA approach, filtering and expanding topics, manual coding, building a supervised machine learning model using BERT, and predicting unseen data. The authors applied this tool to media articles related to gun violence and discovered differences in frame usage between conservative and liberal media. 
+
+Overall, the document highlights the importance of understanding the frames used in text documents and provides useful frameworks and methodologies for analyzing and predicting these frames.
+
+Bullet points:
+- The paper provides an overview of the evolution and problems with existing approaches to frame detection 
+- A new approach combining different methods is proposed 
+- The concept of framing and its impact on readers' perspectives is discussed 
+- The importance of identifying and measuring framing to prevent unwanted changes in opinions is highlighted 
+- Four state-of-the-art approaches to frame classification are presented 
+- A five-step process for identifying and predicting frames in text data related to gun violence is described 
+- Differences in frame usage between conservative and liberal media are discovered through the application of this tool to media articles related to gun violence
