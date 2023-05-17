@@ -1,5 +1,7 @@
 # GPTSummarizer
 
+For a free online PDF summarizer try: [StudyCopilot.io](https://studycopilot.io)!
+
 ## How to use?
 
 ### 1. Setup
